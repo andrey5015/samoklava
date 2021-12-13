@@ -7,9 +7,9 @@ points:
   key:
     footprints:
       choc_hotswap:
-        type: mx
+        type: choc
         params:
-          hotswap: true
+          hotswap: false
           reverse: true
           keycaps: true
         nets:
