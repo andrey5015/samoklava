@@ -6,7 +6,7 @@ units:
 points:
   key:
     footprints:
-      mx_hotswap:
+      choc_hotswap:
         type: mx
         params:
           hotswap: true
